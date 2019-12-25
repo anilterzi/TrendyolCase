@@ -1,0 +1,12 @@
+C:\Users\ASUS\source\repos\TrendyolCaseStudy\TrendyolCaseStudy.Main\obj\Debug\TrendyolCaseStudy.Main.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\TrendyolCaseStudy\TrendyolCaseStudy.Main\obj\Debug\TrendyolCaseStudy.Main.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\TrendyolCaseStudy\TrendyolCaseStudy.Main\bin\Debug\TrendyolCaseStudy.Main.dll
+C:\Users\ASUS\source\repos\TrendyolCaseStudy\TrendyolCaseStudy.Main\bin\Debug\TrendyolCaseStudy.Main.pdb
+C:\Users\ASUS\source\repos\TrendyolCaseStudy\TrendyolCaseStudy.Main\obj\Debug\TrendyolCaseStudy.Main.dll
+C:\Users\ASUS\source\repos\TrendyolCaseStudy\TrendyolCaseStudy.Main\obj\Debug\TrendyolCaseStudy.Main.pdb
+C:\Users\ASUS\Desktop\TrendyolCaseStudy\TrendyolCaseStudy.Main\bin\Debug\TrendyolCaseStudy.Main.dll
+C:\Users\ASUS\Desktop\TrendyolCaseStudy\TrendyolCaseStudy.Main\bin\Debug\TrendyolCaseStudy.Main.pdb
+C:\Users\ASUS\Desktop\TrendyolCaseStudy\TrendyolCaseStudy.Main\obj\Debug\TrendyolCaseStudy.Main.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\TrendyolCaseStudy\TrendyolCaseStudy.Main\obj\Debug\TrendyolCaseStudy.Main.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\TrendyolCaseStudy\TrendyolCaseStudy.Main\obj\Debug\TrendyolCaseStudy.Main.dll
+C:\Users\ASUS\Desktop\TrendyolCaseStudy\TrendyolCaseStudy.Main\obj\Debug\TrendyolCaseStudy.Main.pdb
